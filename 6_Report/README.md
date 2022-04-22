@@ -16,19 +16,10 @@ Patient monitoring systems are collection of machines or equipment used to const
 # WHERE 
 Used in Hospitals 
 # WHY 
-Patient
-
-
-
-
-
-
-Pa Patient tient monitoring bridges the barrier of access by providing care to patients where they are, when they need it
-
-WHEN
+Patient  monitoring bridges the barrier of access by providing care to patients where they are, when they need it
+# WHEN
 High-capability, multifunction monitors are typically used in hospitals and clinics to ensure a high level of quality patient care
-
-HOW
+# HOW
 The ADC sends the data to a microprocessor based signal processor which extracts features such as heart rate and blood pressure. After processing, the physiological signals are displayed on a display device and usually sent to a centralized ICU display system and frequently to a electronic patient record.
 # HIGH LEVEL REQUIREMENTS 
 1) HLR1--->Power supply unit 
