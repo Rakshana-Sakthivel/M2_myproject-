@@ -32,7 +32,10 @@ The ADC sends the data to a microprocessor based signal processor which extracts
 # LOW LEVEL REQUIREMENTS  
 1) LLR1--->ATmega328 
 2) LLR2--->AVR GCC compiler 
-3) LLR3--->Simulide
+3) LLR3--->Simulide 
+# Simulation 
+![Screenshot (15)](https://user-images.githubusercontent.com/101009876/164753897-c92b7919-3689-4cc2-837d-5f1ac06d13bc.png)
+
  
 
 
