@@ -33,9 +33,21 @@ High-capability, multifunction monitors are typically used in hospitals and clin
 # HOW 
 The ADC sends the data to a microprocessor based signal processor which extracts features such as heart rate and blood pressure. After processing, the physiological signals are displayed on a display device and usually sent to a centralized ICU display system and frequently to a electronic patient record.
 # High level requirements 
-![164433510-72ae476d-719b-4f95-aa8b-32b8565fb522](https://user-images.githubusercontent.com/101009876/164646443-e2dfdd83-fce2-4b34-8beb-277ca6bdc988.png)
+1) HLR1--->Power supply unit
+2) HLR2--->Microcontroller atmega328
+3) HLR3--->LCD display 16x2
+4) HLR4--->Temperature Sensor
+5) HLR5--->ECG sensor
+6) HLR6--->Respiration sensor
+7) HLR7--->Wi-Fi ESP8266 
 # Low level requirements 
-![164433602-9de0dbdd-f4ca-4af1-b375-e0263dfc6296](https://user-images.githubusercontent.com/101009876/164646501-c1138482-b1be-40e8-877f-3454ece01700.png)
+1) LLR1--->ATmega238 
+2) LLR2--->AVR GCC compiler 
+3) LLR3--->simulide
+
+
+
+
 
 
 
