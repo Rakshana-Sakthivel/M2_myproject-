@@ -5,5 +5,5 @@
 # Code Grade
 ![image](https://user-images.githubusercontent.com/101009876/164746208-db17d14c-cb84-46b7-9490-331923bb07a4.png)
 
-#Code Quality
+# Code Quality
 ![image](https://user-images.githubusercontent.com/101009876/164746635-eacf58f1-2898-402e-b057-9a589532d5cd.png)
