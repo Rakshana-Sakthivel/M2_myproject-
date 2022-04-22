@@ -1,5 +1,5 @@
 # PROJECT TITLE: 
-Patient monitoring and automatic altert system
+PATIENT MONITORING AND AUTOMATIC ALERT SYSTEM 
 # ABSTRACT  
 1) Healthcare services based on the embedded have great business potential; however, a comprehensive platform is still missing. 
 2) In this paper, an intelligent home-based platform, the, is proposed and implemented. 
