@@ -20,8 +20,20 @@ In this system we are continuously monitoring the patients different parameters 
 # Strength 
 - Reduce hospitalization in the short term and prevent or delay complications from disease, such as microvascular stroke or heart attack,in the long term 
 # Weakness 
-
-
+- Without the patient's willingness to be an active participant in their care, Real-time health monitoring devices implementation will likely fail 
+# 4 W's and 1'H 
+# WHAT 
+Patient monitoring systems are collection of machines or equipment used to constantly monitor patients through various vital signs and warning systems to detect and record changes in patient wellbeing 
+# WHERE 
+Used in Hospitals 
+# WHY 
+Patient monitoring bridges the barrier of access by providing care to patients where they are, when they need it 
+# WHEN 
+High-capability, multifunction monitors are typically used in hospitals and clinics to ensure a high level of quality patient care 
+# HOW 
+The ADC sends the data to a microprocessor based signal processor which extracts features such as heart rate and blood pressure. After processing, the physiological signals are displayed on a display device and usually sent to a centralized ICU display system and frequently to a electronic patient record.
+# High level requirements![164433510-72ae476d-719b-4f95-aa8b-32b8565fb522](https://user-images.githubusercontent.com/101009876/164646059-b4aba650-28e4-49a6-98f7-dd46d1a7757d.png)
+# Low level requirements![164433602-9de0dbdd-f4ca-4af1-b375-e0263dfc6296](https://user-images.githubusercontent.com/101009876/164646131-85f5c58d-acb6-45b5-a35a-785237166f1a.png)
 
 
 
