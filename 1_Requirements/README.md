@@ -5,17 +5,27 @@ universally, cardiovascular ailments are the main source of passings overall rep
 # PROPOSED SYSTEM 
 In this system we are continuously monitoring the patients different parameters such as body temperature, Heart Beat monitoring, respiration and transmitting this data to the doctors cabin continuously as well as displaying data at transmitter side so that patient also observed the relevant outputs and then at the receiver side or in doctors cabin the data is collected with Wi-Fi and microcontroller and displayed on relevant displays. The device can be used outdoors.
 # HARDWARE REQUIREMENTS 
-Power supply unit
-Microcontroller atmega8
-LCD display  16x2
-Temperature Sensor
-ECG sensor
-Respiration sensor
-Wi-Fi ESP8266 
+1) Power supply unit 
+2) Microcontroller atmega328 
+3) LCD display 16x2 
+4) Temperature Sensor 
+5) ECG sensor 
+6) Respiration sensor 
+7) Wi-Fi ESP8266 
 # SOFTWARE REQUIREMENTS 
-Platform - AVR STUDIO 
-In System Programmer - ProgISP 172
-Compiler  Win AVR
+1) platform - AVR STUDIO 
+2) In system programmer - ProgISP 172 
+3) compiler Win AVR 
+
+
+
+
+
+
+  
+
+
+
 
 
 
