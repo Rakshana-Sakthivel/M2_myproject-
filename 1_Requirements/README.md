@@ -16,6 +16,11 @@ In this system we are continuously monitoring the patients different parameters 
 1) platform - AVR STUDIO 
 2) In system programmer - ProgISP 172 
 3) compiler Win AVR 
+# SWOT ANALYSIS 
+# Strength 
+- Reduce hospitalization in the short term and prevent or delay complications from disease, such as microvascular stroke or heart attack,in the long term 
+# Weakness 
+
 
 
 
