@@ -37,4 +37,4 @@ In this system we are continuously monitoring the patients different parameters 
 
 
 
-Wi-Fi ESP8266
+
