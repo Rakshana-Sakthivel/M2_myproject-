@@ -17,9 +17,9 @@ In this system we are continuously monitoring the patients different parameters 
 2) In system programmer - ProgISP 172 
 3) compiler Win AVR 
 # SWOT ANALYSIS 
-# Strength 
+# STRENGTH
 - Reduce hospitalization in the short term and prevent or delay complications from disease, such as microvascular stroke or heart attack,in the long term 
-# Weakness 
+# WEAKNESS
 - Without the patient's willingness to be an active participant in their care, Real-time health monitoring devices implementation will likely fail 
 # 4 W's and 1'H 
 # WHAT 
@@ -32,7 +32,7 @@ Patient monitoring bridges the barrier of access by providing care to patients w
 High-capability, multifunction monitors are typically used in hospitals and clinics to ensure a high level of quality patient care 
 # HOW 
 The ADC sends the data to a microprocessor based signal processor which extracts features such as heart rate and blood pressure. After processing, the physiological signals are displayed on a display device and usually sent to a centralized ICU display system and frequently to a electronic patient record.
-# High level requirements 
+# HIGH LEVEL REQUIREMENTS 
 1) HLR1--->Power supply unit
 2) HLR2--->Microcontroller atmega328
 3) HLR3--->LCD display 16x2
@@ -40,7 +40,7 @@ The ADC sends the data to a microprocessor based signal processor which extracts
 5) HLR5--->ECG sensor
 6) HLR6--->Respiration sensor
 7) HLR7--->Wi-Fi ESP8266 
-# Low level requirements 
+# LOW LEVEL REQUIREMENTS
 1) LLR1--->ATmega238 
 2) LLR2--->AVR GCC compiler 
 3) LLR3--->simulide
