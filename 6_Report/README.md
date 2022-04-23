@@ -6,9 +6,9 @@ universally, cardiovascular ailments are the main source of passings overall rep
 # PROPOSED SYSTEM 
 In this system we are continuously monitoring the patients different parameters such as body temperature, Heart Beat monitoring, respiration and transmitting this data to the doctors cabin continuously as well as displaying data at transmitter side so that patient also observed the relevant outputs and then at the receiver side or in doctors cabin the data is collected with Wi-Fi and microcontroller and displayed on relevant displays. The device can be used outdoors. 
 # SWOT ANALYSIS
-# Strength
+# STRENGTH
 Reduce hospitalization in the short term and prevent or delay complications from disease, such as microvascular stroke or heart attack,in the long term
-# Weakness
+# WEAKNESS
 without the patient's willingness to be an active participant in their care, Real-time health monitoring devices implementation will likely fail
 # 4 W's and 1'H
 # WHAT
@@ -33,7 +33,7 @@ The ADC sends the data to a microprocessor based signal processor which extracts
 1) LLR1--->ATmega328 
 2) LLR2--->AVR GCC compiler 
 3) LLR3--->Simulide 
-# Simulation 
+# SIMULATION
 ![Screenshot (15)](https://user-images.githubusercontent.com/101009876/164753897-c92b7919-3689-4cc2-837d-5f1ac06d13bc.png)
 
  
