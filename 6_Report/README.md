@@ -15,7 +15,23 @@ Health insurance access, quality and affordability are issues all around the glo
 # EXISTING WORK 
 universally, cardiovascular ailments are the main source of passings overall representing roughly 17.3 million passings every year. Monetary misfortunes because of cardiovascular dis-facilitates in low and center pay nations somewhere around 2011 and 2025 are assessed to be USD 3.76 trillion to which coronary illness contributes significantly. Moving far from existing scenario of treating patients for post cardiovascular entanglements to a framework able to do early recognition of anomalous or basic heart condition can turn out be an existence rescuer for some heart patients. Nonstop checking of heart including Electrocardiogram (ECG) signals as a major aspect of a remote observing framework connected with screening by specialists in claim to fame doctor's facilities improves the odds of early identification of any sort of cardiovascular abnormality.
 # PROPOSED SYSTEM 
-In this system we are continuously monitoring the patients different parameters such as body temperature, Heart Beat monitoring, respiration and transmitting this data to the doctors cabin continuously as well as displaying data at transmitter side so that patient also observed the relevant outputs and then at the receiver side or in doctors cabin the data is collected with Wi-Fi and microcontroller and displayed on relevant displays. The device can be used outdoors. 
+In this system we are continuously monitoring the patients different parameters such as body temperature, Heart Beat monitoring, respiration and transmitting this data to the doctors cabin continuously as well as displaying data at transmitter side so that patient also observed the relevant outputs and then at the receiver side or in doctors cabin the data is collected with Wi-Fi and microcontroller and displayed on relevant displays. The device can be used outdoors.  
+# COMPONENTS USED 
+# MICROCONTROLLER-ATMEGA328p 
+1) High-performance, Low-power AVR 8-bit Microcontroller
+2) Advanced RISC Architecture
+3) 130Powerful Instructions – Most Single-clock Cycle Execution
+4) 32x8 General Purpose Working Registers
+5) Fully Static Operation
+6) Upto 16 MIPS Throughput at 16 MHz
+7) On-chip 2-cycle Multiplier 
+# TEMPERATURE SENSOR 
+1) Calibrated directly in ° Celsius (Centigrade) 
+2) Linear + 10.0 mV/°C scale factor 
+3) Rated for full -55° to +150°C range 
+4) Operates from 4 to 30 volts 
+5) Low cost due to wafer-level trimming 
+6) Low impedance output, 0.1 Ohm for 1 mA load
 # SWOT ANALYSIS
 # STRENGTH
 Reduce hospitalization in the short term and prevent or delay complications from disease, such as microvascular stroke or heart attack,in the long term
