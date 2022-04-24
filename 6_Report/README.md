@@ -33,7 +33,10 @@ The ADC sends the data to a microprocessor based signal processor which extracts
 1) LLR1--->ATmega328 
 2) LLR2--->AVR GCC compiler 
 3) LLR3--->Simulide 
-# SIMULATION
+# BLOCK DIAGRAM 
+![164732022-7b078995-a4a2-41f6-8cc4-223cd4f07eb9](https://user-images.githubusercontent.com/101009876/164980409-979e15f5-b505-4e6f-ada0-7f57068b6087.jpg)
+
+# SIMULATION 
 ![Screenshot (15)](https://user-images.githubusercontent.com/101009876/164753897-c92b7919-3689-4cc2-837d-5f1ac06d13bc.png)
 
  
