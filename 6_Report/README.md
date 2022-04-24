@@ -1,4 +1,15 @@
-# PATIENT MONITORING AND AUTOMATIC ALERT SYSTEM 
+# PATIENT MONITORING AND AUTOMATIC ALERT SYSTEM  
+# ABSTRACT 
+healthcare services based on the embedded have great business potential; however, a 
+comprehensive platform is still missing. In this paper, an intelligent home-based platform, 
+the, is proposed and implemented. In particular, the platform involves an open-platform-
+based intelligent incubator enhanced connectivity and interchangeability for the integration 
+of devices and services and flexible and wearable bio-medical sensor device (Bio-Patch) 
+enabled by the state-of-the-art inkjet printing technology and system-on-chip. The proposed 
+platform seamlessly fuses Embedded devices (e.g., wearable sensors, intelligent medicine 
+packages, etc.) with patient healthcare services (e.g., telemedicine) for an improved user 
+experience and service efficiency. The feasibility of the implemented incubator Health-
+Embedded platform field trials 
 # INTRODUCTION 
 Health insurance access, quality and affordability are issues all around the globe. There are settled in varieties in light of pay and geography, and the high costs of restorative administrations present moderateness challenges for countless people. Significant amounts of individuals don't get the quality care that they require. Convenient advancement offers ways to deal with help with these challenges. Cardiovascular sickness has demonstrated that heart beat rate assumes a key part in the danger of heart assault. Coronary illness, for example, heart assault, coronary illness, congestive heart disappointment, and intrinsic coronary illness is the main source of death for men and ladies in numerous nations. More often than not, coronary illness issues hurt the elderly individual. Frequently, they live with their own and nobody is willing to screen them for 24 hours a day. In this proposed system, the pulse rates of patients are calculated or take care by utilizing sensors as simple method.
 # EXISTING WORK 
