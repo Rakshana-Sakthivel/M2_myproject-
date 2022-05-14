@@ -8,3 +8,5 @@
 
 # Code Quality
 ![image](https://user-images.githubusercontent.com/101009876/164746635-eacf58f1-2898-402e-b057-9a589532d5cd.png)
+# Analysis 
+[![Analysis](https://github.com/Rakshana-Sakthivel/M2_myproject-/actions/workflows/Analysis.yml/badge.svg)](https://github.com/Rakshana-Sakthivel/M2_myproject-/actions/workflows/Analysis.yml)
